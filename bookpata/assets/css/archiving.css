@@ -1,0 +1,92 @@
+.fms{
+    border-radius: 3px!important;
+}
+.fms:focus{
+    border-radius: 3px!important;
+    box-shadow: none!important;
+}
+.logins{
+    color: #54B963;
+}
+.acnt_siz{
+    font-size: 15px;
+}
+.bodys{
+    background-color: #F0F0F0!important;
+}
+.bg-cl{
+    background-color: #ffffff;
+}
+.fa-size{
+    font-size: 20px!important;
+    color: red!important;
+}
+.alrto{
+    height: 40px!important;
+    color: red;
+}
+.fdr-clr{
+    color: #FFD04B!important;
+}
+.fdr{
+    font-size: 50px!important;
+    color: #FFD04B!important;
+}
+.flder-btn{
+    border-radius: 30px;
+}
+.fdr_my{
+    font-size: 17px;
+    font-weight: bold;
+    color: black!important;
+}
+.fdr_v{
+    background-color: #DADADA;
+    border-radius: 8px;
+}
+.form_inter{
+    background-color: #F8F9FA;
+    border-radius: 5px;
+}
+.count_textxx{
+    font-size: 13px;
+}
+.count_textxx_low{
+    font-size: 10px;
+}
+.contentx{
+    border-radius: 5px;
+    border: 1px solid #F0F0F0!important;
+}
+.siz_dow{
+    font-size: 13px!important;
+}
+.deletex:focus{
+    box-shadow: none;
+}
+#contentx{
+    height: 150px;
+    overflow-y: scroll;
+    overflow-x: none;
+}
+.contentx::-webkit-scrollbar{
+    width: 5px;
+    height: 0px;
+}
+.contentx::-webkit-scrollbar-track{
+    background-color: #EDEEF0;
+    border-radius: 0px;
+}
+.contentx::-webkit-scrollbar-thumb{
+    background-color: #54B963;
+    border-radius: 0px;
+}
+.bc-clr{
+    background-color: #DADADA!important;
+}
+.rds-img{
+    border: 3px solid #54B963!important;
+}
+.rds{
+    border: 2px solid #DADADA!important;
+}
